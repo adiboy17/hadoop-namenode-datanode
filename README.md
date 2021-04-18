@@ -72,7 +72,7 @@ Setup of Hadoop name node and data node
 <configuration>
 <property>
 <name>dfs.data.dir</name>
-<value>/dhadn1</value>
+<value>/dn1</value>
 </property>
 </configuration> 
     
