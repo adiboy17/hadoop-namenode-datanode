@@ -1,4 +1,4 @@
-# hadoop-namenode-datanode
+# Hadoop-namenode-datanode file Setup
 Setup of Hadoop name node and data node
 
 ## HADOOP:SETUP
@@ -27,7 +27,7 @@ Setup of Hadoop name node and data node
    
    -> vim hdfs-site.xml
 
-```Language
+```xml
 
 <configuration>
 <property>
@@ -41,7 +41,7 @@ Setup of Hadoop name node and data node
 
    -> vim core-site.xml
    
-```Language
+```xml
 
 <configuration>
 <property>
@@ -67,7 +67,7 @@ Setup of Hadoop name node and data node
 
    ->   vim hdfs-site.xml
     
-```Language
+```xml
 
 <configuration>
 <property>
@@ -84,7 +84,7 @@ Setup of Hadoop name node and data node
   
   ->    vim core-site.xml
 
-```Language
+```xml
 
 <configuration>
 <property>
